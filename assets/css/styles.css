@@ -1,0 +1,52 @@
+*{
+    margin: 0%;
+    border: 0%;
+    padding: 0%;
+}
+
+
+main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 200px;
+    color: aqua;
+    background-color: #672f81;
+    text-align: center;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.imagen img {
+    width: 450px;
+    height: 450px;
+}
+
+.card {
+    width: 30em;
+}
+
+.card img {
+    width: 100%;
+}
+
+.btn a {
+    text-decoration: none;
+    background-color: #ffffff;
+    color: rgb(212, 17, 17);
+}
+.btn a:hover {
+    background-color: #0b5ed7;
+}
+
+.logo-github{
+    color: aquamarine;
+    padding-right: 30%;
+}

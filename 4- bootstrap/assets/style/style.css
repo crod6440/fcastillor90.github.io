@@ -1,0 +1,33 @@
+.margin-32   {
+    margin-top: 32px
+}
+
+.margin-16 {
+    margin-top: 16px;
+}
+
+.marginbottom-32 {
+    margin-bottom: 32px;
+}
+
+.section-cupon {
+    background-color: #24A745;
+}
+
+.title-section {
+    color: white;
+    font-size: 32px;
+}
+
+.bg-body-tertiary{
+    background-color: #24a745 !important;
+}
+
+.nav-link{
+    color: white;
+}
+
+.nav-item{
+    text-align: center;
+    padding-left: 70%;
+}

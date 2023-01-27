@@ -1,0 +1,45 @@
+*{
+    margin-top: 0em;
+    padding: 0em;
+}
+body{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.encabezado {
+    height: 15em;
+    padding: 2em;
+    margin: 5em;
+    font-size: 1em;
+    background-image: url(https://images.unsplash.com/photo-1577978924027-8657e5e9cfe3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80);
+    background-position: center;
+    background-size: cover;
+}
+
+.encabezado h1{
+    margin: 1em;
+    color: aqua;
+}
+
+.productos {
+ width: 70%;
+ margin: auto;
+ height: auto;
+}
+
+.productos td {
+    width: 80%;
+    padding: 2em;
+    color: brown;
+}
+
+
+
+.pie {
+    
+    background-color: gray;
+    color: rgb(179, 16, 16);
+    text-align: center;
+}
+
